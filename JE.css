@@ -1,0 +1,11 @@
+.box{
+    float: right;
+    border: 1px solid black;
+    width: 900px;
+}
+.box ul li{
+    width: 120px;
+    float: left;
+    margin: 10px auto;
+    text-align: center;
+}
